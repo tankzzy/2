@@ -1,0 +1,52 @@
+.first{
+    border-style: solid white;
+    height: 950px;
+    width: 600px;
+}
+.second{
+    height: 130px;
+    background-color: rgb(59, 189, 176);
+}
+
+.third {
+    height: 100px;
+    width: 400px;
+    display: inline-block;
+   vertical-align: top;
+   text-align: right;
+   margin-top: 10px;
+   font-size: small;
+   color: white;
+    
+}
+
+.fourth {
+    font-size: small;
+    padding: 25px;
+    
+}
+
+img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 5px 15px 15px 10px;
+    object-fit: cover;
+    object-position: 0 -10 px;
+}
+
+h3 {
+color: rgb(59, 189, 176);
+border-bottom: 1px solid black;
+padding-left: 20px;
+}
+
+.list{
+    display: flex;
+    gap: 20px;
+}
+
+.list1{
+    display: flex;
+    gap: 90px;
+}
